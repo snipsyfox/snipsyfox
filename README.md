@@ -1,4 +1,3 @@
-# <img src="https://cdn.discordapp.com/emojis/820183020840550420.gif?v=1&size=32" /> i am Lucy
-<!-- # <img src="https://cdn.discordapp.com/emojis/820183020840550420.gif?v=1&size=32" /> i am Lucy -->
+# HI! i am snips
 
-<img src="./images/invert.gif" alt="loop image">
+<img src="./images/bender.png" alt="PET ALL FOXES">
